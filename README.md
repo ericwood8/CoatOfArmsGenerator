@@ -16,4 +16,6 @@ Pseudo code lines for the Coat Of Arms generation are:
 7) overlay randomly picked symbol
 8) switch symbol black to random color 
 
+ImageActionToolbox.cs holds the assumed directory structures. Currently the assumed directory structure is C:\CoatOfArmsCore\ holding the EXE and subdirectories underneath for the ChargesFiles, OrdinaryFiles, and ShieldShapeFiles.
 
+See the other repository CoatOfArmsCore to see the generated EXE.
