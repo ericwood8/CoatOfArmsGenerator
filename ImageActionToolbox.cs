@@ -137,7 +137,7 @@ namespace CoatOfArmsCore
         internal static Image RandomlyGenerateCoatOfArms()
         {
             const string imagePattern = "*.png";
-            const string programPath = @"C:\CSharp\CoatOfArmsCore\";
+            const string programPath = @"C:\CoatOfArmsCore\"; 
             const string folderForOrdinaries = "OrdinaryFiles";
             const string folderForShieldShapes = "ShieldShapeFiles";
             const string folderForCharges = "ChargesFiles";
